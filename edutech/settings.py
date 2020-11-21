@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'xf6_^w+u(9t&(0-p8)z4p(v)1rz-e@x=ry3$f2-j7wos&i_7xy'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'edutechdjangoapp.herokuapp.com']
 
