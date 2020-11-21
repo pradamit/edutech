@@ -27,7 +27,7 @@ SECRET_KEY = 'xf6_^w+u(9t&(0-p8)z4p(v)1rz-e@x=ry3$f2-j7wos&i_7xy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'edutechdjangoapp.herokuapp.com']
 
 
 # Application definition
